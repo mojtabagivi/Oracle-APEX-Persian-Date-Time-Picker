@@ -57,7 +57,7 @@ set min and max date :
   <table>
 <tr>
 	<td>
-		<img src="https://github.com/mojtabagivi/Oracle-APEX-Persian-Date-Time-Picker/blob/main/images/configuration1.png">
+		<img src="https://github.com/mojtabagivi/Oracle-APEX-Persian-Date-Time-Picker/blob/main/images/configuration2.png">
 	</td>
 	<td>
 		<img src="https://github.com/mojtabagivi/Oracle-APEX-Persian-Date-Time-Picker/blob/main/images/control-ui4.png"> 
