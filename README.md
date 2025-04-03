@@ -38,7 +38,7 @@
                </div>
             </div>
 <div>
-<div>this configuration is avalible in this plugin settings:</div>
+<strong>this configuration is avalible in this plugin settings:</strong>
 	
 <table><tr><td colspan="3">
 	<img src="https://github.com/mojtabagivi/Oracle-APEX-Persian-Date-Time-Picker/blob/main/images/configuration1.png">
@@ -58,23 +58,16 @@
 		<img src="https://github.com/mojtabagivi/Oracle-APEX-Persian-Date-Time-Picker/blob/main/images/control-ui4.png"> 
 	</td>
 </tr>
- 
+
 </table>
-
-
-
-
-
 
 </div>
 
-     
-            <strong>تولید شده توسط : </strong>
-            <strong><a href="https://mojtabagivi.github.io/"  target="_blank">مجتبی حاجی علیقلی گیوی</a></strong>
-			<strong>اگر دوست داری می‌تونی یه قهوه☕ مهمانم کنی! شماره کارتم اینه:
-6063-7311-2035-6598
-ممنون از لطفت! 😊
-			</strong>
+<strong>تولید شده توسط : </strong>
+<strong><a href="https://mojtabagivi.github.io/"  target="_blank">مجتبی حاجی علیقلی گیوی</a></strong>
+<strong>اگر دوست داری می‌تونی یه قهوه☕ مهمانم کنی! شماره کارتم اینه:</strong>
+<strong>6063-7311-2035-6598</strong>
+<strong>ممنون از لطفت! 😊</strong>			
 </br>
 <p>
 <div>منبع</div>
