@@ -39,8 +39,10 @@
             </div>
 <div>
 <strong>this configuration is avalible in this plugin settings:</strong>
-	
-<table><tr><td colspan="3">
+<ul>
+	<li>
+set dateTime Type :
+  <table><tr><td colspan="3" align="center">
 	<img src="https://github.com/mojtabagivi/Oracle-APEX-Persian-Date-Time-Picker/blob/main/images/configuration1.png">
 </td></tr>
 <tr>
@@ -48,18 +50,24 @@
 	<td><img src="https://github.com/mojtabagivi/Oracle-APEX-Persian-Date-Time-Picker/blob/main/images/control-ui2.png"></td>
 	<td><img src="https://github.com/mojtabagivi/Oracle-APEX-Persian-Date-Time-Picker/blob/main/images/control-ui3.png"></td>
 </tr>
+</table>
+	</li>
+	<li>
+set min and max date :
+  <table>
 <tr>
-	<td colspan="3">
+	<td>
 		<img src="https://github.com/mojtabagivi/Oracle-APEX-Persian-Date-Time-Picker/blob/main/images/configuration1.png">
 	</td>
-</tr>
-<tr>
-	<td colspan="3">
+	<td>
 		<img src="https://github.com/mojtabagivi/Oracle-APEX-Persian-Date-Time-Picker/blob/main/images/control-ui4.png"> 
 	</td>
 </tr>
-
 </table>
+	</li>
+</ul>	
+
+
 
 </div>
 
