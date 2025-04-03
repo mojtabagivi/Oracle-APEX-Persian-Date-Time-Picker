@@ -65,8 +65,8 @@
 
 <p><strong>تولید شده توسط : </strong></p>
 <p><strong><a href="https://mojtabagivi.github.io/"  target="_blank">مجتبی حاجی علیقلی گیوی</a></strong></p>
-<p><strong>اگر دوست داری می‌تونی یه قهوه☕ مهمانم کنی! شماره کارتم اینه:</strong></p>
-<p><strong>6063-7311-2035-6598</strong></p>
+<p><strong>اگر دوست داری می‌تونی یه قهوه☕ مهمانم کنی! </strong></p>
+<p><strong> شماره کارتم اینه: 6063-7311-2035-6598</strong></p>
 <p><strong>ممنون از لطفت! 😊</strong></p>
 </br>
 <p>
