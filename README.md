@@ -1,10 +1,4 @@
 # Oracle-APEX-Persian-Date-Time-Picker
-<img src="https://github.com/mojtabagivi/Oracle-APEX-Persian-Date-Time-Picker/blob/main/images/configuration1.png">
-<img src="https://github.com/mojtabagivi/Oracle-APEX-Persian-Date-Time-Picker/blob/main/images/configuration1.png">
-<img src="https://github.com/mojtabagivi/Oracle-APEX-Persian-Date-Time-Picker/blob/main/images/control-ui1.png">
-<img src="https://github.com/mojtabagivi/Oracle-APEX-Persian-Date-Time-Picker/blob/main/images/control-ui2.png">
-<img src="https://github.com/mojtabagivi/Oracle-APEX-Persian-Date-Time-Picker/blob/main/images/control-ui3.png">
-<img src="https://github.com/mojtabagivi/Oracle-APEX-Persian-Date-Time-Picker/blob/main/images/control-ui4.png">
 <div class="props_rev_3">
 
 <h3 class="sect3"><span class="enumeration_section"></span>Importing a Plug-in from the Plug-in Page</h3>
@@ -43,6 +37,38 @@
                   </ol>
                </div>
             </div>
+<div>
+<div>this configuration is avalible in this plugin settings:</div>
+	
+<table><tr><td colspan="3">
+	<img src="https://github.com/mojtabagivi/Oracle-APEX-Persian-Date-Time-Picker/blob/main/images/configuration1.png">
+</td></tr>
+<tr>
+	<td><img src="https://github.com/mojtabagivi/Oracle-APEX-Persian-Date-Time-Picker/blob/main/images/control-ui1.png"></td>
+	<td><img src="https://github.com/mojtabagivi/Oracle-APEX-Persian-Date-Time-Picker/blob/main/images/control-ui2.png"></td>
+	<td><img src="https://github.com/mojtabagivi/Oracle-APEX-Persian-Date-Time-Picker/blob/main/images/control-ui3.png"></td>
+</tr>
+<tr>
+	<td colspan="3">
+		<img src="https://github.com/mojtabagivi/Oracle-APEX-Persian-Date-Time-Picker/blob/main/images/configuration1.png">
+	</td>
+</tr>
+<tr>
+	<td colspan="3">
+		<img src="https://github.com/mojtabagivi/Oracle-APEX-Persian-Date-Time-Picker/blob/main/images/control-ui4.png"> 
+	</td>
+</tr>
+ 
+</table>
+
+
+
+
+
+
+</div>
+
+     
             <strong>تولید شده توسط : </strong>
             <strong><a href="https://mojtabagivi.github.io/"  target="_blank">مجتبی حاجی علیقلی گیوی</a></strong>
 			<strong>اگر دوست داری می‌تونی یه قهوه☕ مهمانم کنی! شماره کارتم اینه:
